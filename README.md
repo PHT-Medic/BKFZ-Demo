@@ -49,7 +49,7 @@ To run the train use this command (replace STATION_NUM and TRAIN_ID):
     "volumes":
         {"/home/ubuntu/station/station_data/ds_STATION_NUM":
         {"bind":
-            "/opt/train_data/ds_STATION_NUM",
+            "/opt/train_data/ds",
             "mode": "ro"}},
     "gpus":"all"
 }

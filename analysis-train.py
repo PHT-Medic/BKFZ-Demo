@@ -161,7 +161,7 @@ if __name__ == '__main__':
 
     path = DATA_PATH
     try:
-        data_dir = path + 'ds_' + str(station)
+        data_dir = path + 'ds'
         print(data_dir)
         ds_train_demo = tf.data.Dataset.load(data_dir)
 
