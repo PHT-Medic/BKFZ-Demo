@@ -1,4 +1,4 @@
-# BKFZ-Demo
+# BZFZ-Demo
 This is a minimal MNIST Tensorflow Demo for the BKFZ Summer School with the PHT-meDIC.
 
 Analyst should upload the algorithm `analysis-train.py` as entrypoint in the central UI.
@@ -55,4 +55,6 @@ To run the train use this command (replace STATION_NUM and TRAIN_ID):
 }
 ```
 
+# Feedback
+Please use the link to answer shortly a few question: [Survey](https://vslsurvey01.med.uni-tuebingen.de/index.php/291782?lang=de)
 
