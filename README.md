@@ -1,4 +1,4 @@
-# BZFZ-Demo
+# BZKF-Demo
 This is a minimal MNIST Tensorflow Demo for the BKFZ Summer School with the PHT-meDIC.
 
 Analyst should upload the algorithm `analysis-train.py` as entrypoint in the central UI.
